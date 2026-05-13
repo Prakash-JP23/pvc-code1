@@ -10,4 +10,4 @@ spec:
   persistentVolumeReclaimPolicy: Retain
   hostPath:
     path: "/mnt/data"
-    My number was 9999999999999999999
+   
